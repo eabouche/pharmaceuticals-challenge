@@ -1,1 +1,1 @@
-# pharmaceuticals-challenge
+# pharmaceuticals-data-visualization-challenge
